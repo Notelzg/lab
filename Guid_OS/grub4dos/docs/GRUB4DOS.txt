@@ -1,0 +1,35 @@
+Please refer to http://grub4dos.sourceforge.net/wiki/ for DOCs on GRUB4DOS.
+
+Main project page:	https://gna.org/projects/grub4dos/
+
+Download site:		http://download.gna.org/grub4dos/
+Download site:		http://grub4dos.sourceforge.net/
+Download site:		http://sarovar.org/projects/grub4dos/
+Download site:		http://grub4dos.nufans.net/
+Download site:		http://sites.google.com/site/grubdos/
+Download site:		http://grub4dos.jot.com/
+
+Get the latest source code by using anonymous svn in this way:
+
+	svn co svn://svn.gna.org/svn/grub4dos/trunk grub4dos
+
+or in this way:
+
+	svn co http://svn.gna.org/svn/grub4dos/trunk grub4dos
+
+View the source code online with your web browser at:
+
+	http://svn.gna.org/viewcvs/grub4dos/trunk/
+
+GRUB4DOS mailing list:
+
+	grub4dos-devel@gna.org
+
+Subscription page:
+
+	https://mail.gna.org/listinfo/grub4dos-devel/
+
+Discussion forum(Official technical support site):
+
+	http://www.boot-land.net/forums/index.php?showforum=66
+

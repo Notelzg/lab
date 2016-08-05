@@ -1,0 +1,9 @@
+timeout 10
+title Windows 7  
+root (hd1,0)  
+chainloader +1  
+	
+title Windows 7 tt 
+ root (hd1,0)  
+ chainloader +1 
+   
