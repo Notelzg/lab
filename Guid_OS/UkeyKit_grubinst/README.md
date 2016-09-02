@@ -1,4 +1,3 @@
-# ttt
 # introduce 
     This is a mfc project is base on the vs2010.
 the mfc project is too big space to cut some files. 
