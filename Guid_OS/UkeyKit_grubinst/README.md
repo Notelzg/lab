@@ -9,7 +9,7 @@ the mfc project is too big space to cut some files.
 不过，grub4dos 和grubist 都是有源码的，有兴趣的可以研究一下。
 grubisnt.exe 在源码目录下面，程序使用的话，需要把grubisnt.exe 拷贝到
 UkeyKit.exe 同一个目录下面的一个config文件夹里面，因为程序里面写的是这样的路径，可以根据自己的需求改自己
-https://sourceforge.net/projects/grub4dos/
-hpps://github.com/chenall/grubutils/tree/master/grubutils/grubinst
-http://download.gna.org/grubutil/
-http://download.gna.org/grubutil/
+https://sourceforge.net/projects/grub4dos/ \n
+hpps://github.com/chenall/grubutils/tree/master/grubutils/grubinst \n
+http://download.gna.org/grubutil/ \n
+http://download.gna.org/grubutil/ \n
